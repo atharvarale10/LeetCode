@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
@@ -25,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
