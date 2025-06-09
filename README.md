@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
@@ -27,12 +28,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -47,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
 ## Tree
 |  |
