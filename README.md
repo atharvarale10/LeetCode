@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/atharvarale10/LeetCode/tree/master/0101-symmetric-tree) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
