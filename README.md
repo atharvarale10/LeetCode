@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/atharvarale10/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
