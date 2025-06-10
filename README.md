@@ -25,11 +25,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
