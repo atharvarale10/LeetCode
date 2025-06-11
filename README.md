@@ -27,6 +27,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarale10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
 ## Tree
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
