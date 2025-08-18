@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
 | ------- |
