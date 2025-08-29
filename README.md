@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarale10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/atharvarale10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/atharvarale10/LeetCode/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/atharvarale10/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
