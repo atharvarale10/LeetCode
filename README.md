@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/atharvarale10/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
+| [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
+| [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/atharvarale10/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
