@@ -43,6 +43,7 @@
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/atharvarale10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/atharvarale10/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/atharvarale10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarale10/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/atharvarale10/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
