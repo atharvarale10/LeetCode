@@ -18,12 +18,14 @@
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/atharvarale10/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
+| [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
