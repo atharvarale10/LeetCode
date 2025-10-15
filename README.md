@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/atharvarale10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/atharvarale10/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/atharvarale10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/atharvarale10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarale10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -119,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/atharvarale10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Backtracking
 |  |
