@@ -34,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarale10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/atharvarale10/LeetCode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/atharvarale10/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarale10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/atharvarale10/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/atharvarale10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/atharvarale10/LeetCode/tree/master/0051-n-queens) |
