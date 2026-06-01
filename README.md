@@ -35,6 +35,7 @@
 | [0027-remove-element](https://github.com/atharvarale10/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/atharvarale10/LeetCode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/atharvarale10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
@@ -80,6 +81,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvarale10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/atharvarale10/LeetCode/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
 | ------- |
