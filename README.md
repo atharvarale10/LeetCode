@@ -31,6 +31,7 @@
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0152-maximum-product-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/atharvarale10/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/atharvarale10/LeetCode/tree/master/0322-coin-change) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharvarale10/LeetCode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
