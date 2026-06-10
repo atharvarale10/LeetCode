@@ -103,6 +103,7 @@
 | [0049-group-anagrams](https://github.com/atharvarale10/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/atharvarale10/LeetCode/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/atharvarale10/LeetCode/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarale10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/atharvarale10/LeetCode/tree/master/0402-remove-k-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,4 +177,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/atharvarale10/LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/atharvarale10/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
