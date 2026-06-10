@@ -70,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/atharvarale10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/atharvarale10/LeetCode/tree/master/0322-coin-change) |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0152-maximum-product-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/atharvarale10/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/atharvarale10/LeetCode/tree/master/0322-coin-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
@@ -164,4 +167,12 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
