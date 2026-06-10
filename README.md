@@ -94,6 +94,7 @@
 | [0198-house-robber](https://github.com/atharvarale10/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/atharvarale10/LeetCode/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/atharvarale10/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
@@ -104,6 +105,7 @@
 | [0091-decode-ways](https://github.com/atharvarale10/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/atharvarale10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/atharvarale10/LeetCode/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/atharvarale10/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
