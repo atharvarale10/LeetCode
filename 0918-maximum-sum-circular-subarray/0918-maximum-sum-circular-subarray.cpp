@@ -9,16 +9,13 @@ public:
         for (int num : nums) {
             totalSum += num;
 
-            // Kadane for maximum subarray
             currMax = max(num, currMax + num);
             maxSum = max(maxSum, currMax);
 
-            // Kadane for minimum subarray
             currMin = min(num, currMin + num);
             minSum = min(minSum, currMin);
         }
 
-        // All elements are negative
         if (maxSum < 0)
             return maxSum;
 
