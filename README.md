@@ -146,6 +146,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/atharvarale10/LeetCode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/atharvarale10/LeetCode/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/atharvarale10/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/atharvarale10/LeetCode/tree/master/1280-students-and-examinations) |
