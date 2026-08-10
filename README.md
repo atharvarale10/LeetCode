@@ -153,6 +153,7 @@
 | [1280-students-and-examinations](https://github.com/atharvarale10/LeetCode/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/atharvarale10/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/atharvarale10/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/atharvarale10/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/atharvarale10/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/atharvarale10/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Brainteaser
