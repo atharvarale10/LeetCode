@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/atharvarale10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharvarale10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/atharvarale10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/atharvarale10/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -12,6 +13,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/atharvarale10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/atharvarale10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/atharvarale10/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
@@ -27,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/atharvarale10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/atharvarale10/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/atharvarale10/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/atharvarale10/LeetCode/tree/master/0202-happy-number) |
