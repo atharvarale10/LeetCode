@@ -37,6 +37,7 @@
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2481-strictly-palindromic-number](https://github.com/atharvarale10/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/atharvarale10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atharvarale10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0322-coin-change](https://github.com/atharvarale10/LeetCode/tree/master/0322-coin-change) |
 | [0870-magic-squares-in-grid](https://github.com/atharvarale10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharvarale10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atharvarale10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
